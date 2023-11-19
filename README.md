@@ -27,7 +27,8 @@
 
 ### Проект 3. Анализ маркетинговой акции в торговых точках сети ритейл-магазинов
 ![image](https://github.com/Vi-11/Portfolio/assets/151384463/27949ef6-d22d-41a0-97f8-9e913d721725)
-![image](https://github.com/Vi-11/Portfolio/assets/151384463/0946a323-85e5-493f-95e7-453784cb364f)
+![image](https://github.com/Vi-11/Portfolio/assets/151384463/e9b81b8d-20c1-4bd4-9b58-f21aa669639a)
+
 
 ### Проект 4. Когортный анализ онлайн-кинотеатра
 ![image](https://github.com/Vi-11/Portfolio/assets/151384463/7c076bdc-dbd3-4e45-8c4e-49c9700d8fb2)
